@@ -1,1 +1,3 @@
-greetings, i enjoy lua programming as a hobby.
+I do stuff sometimes
+
+I mainly code in Lua, with Python as a secondary language
